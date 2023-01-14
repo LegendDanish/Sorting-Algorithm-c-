@@ -1,0 +1,32 @@
+﻿  CredentialDL.cpp
+E:\Sorting Algorithm c++\CredentialDL.h(84,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(161,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(517,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(566,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(605,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(605,13): warning C4101: 'maximum': unreferenced local variable
+  CredentialUI.cpp
+E:\Sorting Algorithm c++\CredentialDL.h(84,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(161,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(517,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(566,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(605,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(605,13): warning C4101: 'maximum': unreferenced local variable
+E:\Sorting Algorithm c++\CredentialUI.h(162,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialUI.h(194,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialUI.h(226,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SortingAlgorithm.cpp
+E:\Sorting Algorithm c++\CredentialDL.h(84,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(150,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(161,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(517,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(566,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(605,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialDL.h(605,13): warning C4101: 'maximum': unreferenced local variable
+E:\Sorting Algorithm c++\CredentialUI.h(162,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialUI.h(194,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Sorting Algorithm c++\CredentialUI.h(226,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Sorting Algorithm c++.vcxproj -> E:\Sorting Algorithm c++\x64\Debug\Sorting Algorithm c++.exe

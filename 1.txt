@@ -1,0 +1,2 @@
+Unhandled exception at 0x76A0E062 in Sorting Algorithm c++.exe: 
+Microsoft C++ exception: std::bad_alloc at memory location 0x0059EF84.
